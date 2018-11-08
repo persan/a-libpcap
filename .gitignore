@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+/.gen
+*.a
+*.stdout
+*.stderr
+*.lexch
+b__*
+*.so
