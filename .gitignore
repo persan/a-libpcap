@@ -10,3 +10,8 @@
 *.lexch
 b__*
 *.so
+*.cswi
+messages.txt
+gnatinspect.db*
+*.cgpr
+*-loc.xml
